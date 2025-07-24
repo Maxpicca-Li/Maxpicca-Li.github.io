@@ -20,14 +20,14 @@ Education
   - GPA: 3.90 / 4.00
 - 2019.9 - 2023.6: **Chongqing University(CQU)**, Chongqing, China
   - Bachelor, School of Computer Science and Technology
-  - GPA: 3.93 / 4.00 | Rank: 2 / 219
+  - GPA: 3.93 / 4.00, Rank: 2 / 219
 
 Experience
 ------
 - 2025: Co-presented a tutorial on "XiangShan: An Open Source High Performance RISC-V Processor and Infrastructure for Architecture Research" at HPCA'25.
 - 2024: Co-presented a tutorial on "XiangShan: An Open Source High Performance RISC-V Processor and Infrastructure for Architecture Research" at MICRO'24.
 - 2024: Co-presented a tutorial on "XiangShan Processor" at RVSC'24.
-- 2022: **Teaching Assistant** for Integrated Hardware Design in CQU.
+- 2022: Teaching Assistant for Integrated Hardware Design in CQU.
 
 SCHOLARSHIPS & AWARDS
 ------
