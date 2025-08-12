@@ -25,7 +25,8 @@ author:
   avatar           : "profile-lyq-202308.png"
   name             : "Yanqin Li"
   pronouns         : # example: "she/her"  
-  bio              : "Master Student at Institute of Computing Technology, University of Chinese Academy of Sciences"
+  # bio              : "Master Student at Institute of Computing Technology, University of Chinese Academy of Sciences"
+  bio              : "Happy Happy Happy!"
   location         : "Beijing, China"
   employer         : "ICT, UCAS"
   uri              : # URL
