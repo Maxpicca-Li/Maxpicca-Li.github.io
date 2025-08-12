@@ -12,7 +12,7 @@ tags:
 
 OK，计算机苣蒻也开始拥有自己的（可能会长期维护的）个人博客网站了。
 
-![image-20250724133909659](assets/2024-05-25-hello-world.assets/image-20250724133909659.png)
+![image-20250724133909659]({{ site.image_base }}assets/2024-05-25-hello-world.assets/image-20250724133909659.png)
 
 主要参考资料：
 1. [CookBook/Git/1-Github_Hexo搭建个人博客.md at master · Byron4j/CookBook](https://github.com/Byron4j/CookBook/blob/master/Git/1-Github_Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)
